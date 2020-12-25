@@ -1,3 +1,5 @@
+package Chapter2
+
 fun main() {
     println(max(1, 2))
 }
