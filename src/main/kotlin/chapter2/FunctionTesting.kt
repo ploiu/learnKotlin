@@ -1,4 +1,4 @@
-package Chapter2
+package chapter2
 
 fun main() {
     println(max(1, 2))

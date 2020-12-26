@@ -1,4 +1,4 @@
-package Chapter2
+package chapter2
 
 fun main(args: Array<String>) {
     // looks like standard ternary isn't in kotlin
